@@ -1,4 +1,4 @@
-# 
+# custom liquidity sniper bot | token-launch-monitoring + degen-coin-scanning offers the most advanced liquidity sniper bot, with token-launch-monitoring and degen-coin-scanning.
 
 
 
